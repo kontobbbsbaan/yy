@@ -4,19 +4,19 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 838-2007-3017', 'Rᴇ7.yu'],
-  ['+62 878-2765-9529'],
-  ['+62 852-4075-0713']
+  ['+62 838-3369-4338', 'åñ🐦'],
+  ['+62 838-3369-4338'],
+  ['+62 838-3369-4338']
 ]
 
 
 
- // ['6283820073017', '436506665652696', '6285240750713']
+ // ['6283833694338', '6283833694338', '6283833694338']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = [6283833694338] // Want some help?
+global.prems = [6283833694338] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -50,19 +50,19 @@ global.APIKeys = { // APIKey Here
 */
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Rʟxғʟʏ 」\n\t\t「 IG: rlxfly.uw 」\n\t\t「 SC: github.com/Rlxfly/re-md 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = '𝗗𝗔𝗡𝗭 𝗠𝗗​᭄'
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ꭱʟxғʟʏ - 2022'
+global.me = '𝗗𝗮𝗻𝘇 𝗠𝗱༻'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」ʟ ᴏ ᴀ ᴅ ɪ ɴ ɢ...```'
-global.eror = '```404 ᴇʀʀᴏʀ```'
+global.wait = '𝗟𝗢𝗔𝗗𝗜𝗡𝗚...'
+global.eror = '𝗘𝗥𝗥𝗢𝗥 '
 
 global.rpg = {
   emoticon(string) {
